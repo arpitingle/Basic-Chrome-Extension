@@ -1,1 +1,1 @@
-Lead Tracker Chrome Extension 
+Simple Lead Tracker Chrome Extension made with JavaScript
